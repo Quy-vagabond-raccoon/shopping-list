@@ -1,0 +1,18 @@
+body {
+	background-image: url(wall.jpg);
+}
+.container {
+	color: #063EBF;
+	font-size: 30px;
+	margin: 250px; 
+}
+#click {
+	border-radius: 12px;
+	padding: 12px 28px;
+	text-align: center;
+	display: inline-block;
+	font-size: 20px;
+	margin: 4px 2px0;
+	cursor: pointer;
+	color: #063EBF;
+}

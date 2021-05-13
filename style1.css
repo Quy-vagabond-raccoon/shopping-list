@@ -1,0 +1,18 @@
+body {
+	background-color: #9CCAFD;
+	color: #103864;
+	font-family: cursive;
+}
+h1 {
+	font-size: 40px;
+}
+span {
+	color: pink;
+}
+#first {
+	font-size: 30px;
+	font-weight: bold;
+}
+ul {
+	font-size: 20px;
+}
